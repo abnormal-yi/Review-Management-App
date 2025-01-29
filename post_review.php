@@ -1,9 +1,9 @@
 <?php
 // Database connection
 $servername = "localhost";
-$username = "root";
-$password = "root";
-$dbname = "reviews";
+$username = "luxuaqaj_hoseaayub";
+$password = "hoseaayub@322";
+$dbname = "luxuaqaj_reviews_app";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
@@ -28,7 +28,7 @@ if ($id > 0) {
 
         // Simulate posting the review to Google Business Profile
         // Ideally, you would integrate the Google API for posting reviews
-        $google_review_url = "https://g.page/r/CcQ0WzmGhE0tEBM/review";
+        $google_review_url = "https://maps.app.goo.gl/XMFZ3UQhKrkaobm48?g_st=iw";
 
         // Optional: Delete the review after posting
         $delete_sql = "DELETE FROM reviews WHERE review_id = ?";

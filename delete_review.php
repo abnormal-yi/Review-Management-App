@@ -4,9 +4,9 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 $servername = "localhost";
-$username = "luxuaqaj_mimi";
+$username = "luxuaqaj_hoseaayub";
 $password = "hoseaayub@322";
-$dbname = "luxuaqaj_review";
+$dbname = "luxuaqaj_reviews_app";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 

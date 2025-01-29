@@ -1,0 +1,40 @@
+[29-Dec-2024 11:43:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luxuaqaj_mimi'@'localhost' (using password: YES) in /home/luxuaqaj/review.luxurywebs.com/index.php:10
+Stack trace:
+#0 /home/luxuaqaj/review.luxurywebs.com/index.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/luxuaqaj/review.luxurywebs.com/index.php on line 10
+[29-Dec-2024 11:43:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luxuaqaj_mimi'@'localhost' (using password: YES) in /home/luxuaqaj/review.luxurywebs.com/index.php:10
+Stack trace:
+#0 /home/luxuaqaj/review.luxurywebs.com/index.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/luxuaqaj/review.luxurywebs.com/index.php on line 10
+[29-Dec-2024 11:43:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luxuaqaj_mimi'@'localhost' (using password: YES) in /home/luxuaqaj/review.luxurywebs.com/index.php:10
+Stack trace:
+#0 /home/luxuaqaj/review.luxurywebs.com/index.php(10): mysqli->__construct()
+#1 {main}
+  thrown in /home/luxuaqaj/review.luxurywebs.com/index.php on line 10
+[29-Dec-2024 11:44:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luxuaqaj_mimi'@'localhost' (using password: YES) in /home/luxuaqaj/review.luxurywebs.com/index.php:11
+Stack trace:
+#0 /home/luxuaqaj/review.luxurywebs.com/index.php(11): mysqli->__construct()
+#1 {main}
+  thrown in /home/luxuaqaj/review.luxurywebs.com/index.php on line 11
+[29-Dec-2024 11:44:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luxuaqaj_mimi'@'localhost' (using password: YES) in /home/luxuaqaj/review.luxurywebs.com/index.php:15
+Stack trace:
+#0 /home/luxuaqaj/review.luxurywebs.com/index.php(15): mysqli->__construct()
+#1 {main}
+  thrown in /home/luxuaqaj/review.luxurywebs.com/index.php on line 15
+[29-Dec-2024 11:50:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luxuaqaj_mimi'@'localhost' (using password: YES) in /home/luxuaqaj/review.luxurywebs.com/index.php:15
+Stack trace:
+#0 /home/luxuaqaj/review.luxurywebs.com/index.php(15): mysqli->__construct()
+#1 {main}
+  thrown in /home/luxuaqaj/review.luxurywebs.com/index.php on line 15
+[29-Dec-2024 11:53:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/luxuaqaj/review.luxurywebs.com/post_review.php:8
+Stack trace:
+#0 /home/luxuaqaj/review.luxurywebs.com/post_review.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/luxuaqaj/review.luxurywebs.com/post_review.php on line 8
+[29-Dec-2024 11:53:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/luxuaqaj/review.luxurywebs.com/post_review.php:8
+Stack trace:
+#0 /home/luxuaqaj/review.luxurywebs.com/post_review.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/luxuaqaj/review.luxurywebs.com/post_review.php on line 8
